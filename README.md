@@ -27,24 +27,18 @@
 ---
 
 ## 🖼️ 실행 화면
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/legojeon/react-todo-list/blob/main/screen_shot/main2.png?raw=true" alt="메인 화면" width="400"/>
-      <br/>
-      <b>메인 화면</b>
-      <p>할 일 목록을 추가하고 관리하는 핵심 페이지입니다.</p>
-      <p>날짜를 지정하여 마감일을 설정하거나(선택) 계획일을 설정할 수 있습니다.</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/legojeon/react-todo-list/blob/main/screen_shot/calendar_page.png?raw=true" alt="캘린더 뷰" width="400"/>
-      <br/>
-      <b>캘린더 뷰</b>
-      <p>월별 달력 형태로 등록된 일정을 한눈에 볼 수 있습니다.</p>
-      <p>마감일을 설정했다면 기존 todo list처럼 기간으로 표시되는것이 아닌 시작일과 마감일에만 이벤트 블럭이 존재합니다.</p>
-    </td>
-  </tr>
-</table>
+### 메인 화면
+![메인 화면](https://github.com/legojeon/react-todo-list/blob/main/screen_shot/main2.png?raw=true)
+*할 일 목록을 추가, 삭제, 완료 처리할 수 있는 핵심 페이지입니다.*
+*날짜를 지정하여 마감일을 설정하거나(선택) 계획일을 설정할 수 있습니다.*
+
+<br/>
+
+### 캘린더 뷰
+![캘린더 뷰](https://github.com/legojeon/react-todo-list/blob/main/screen_shot/calendar_page.png?raw=true)
+*월별 달력 형태로 등록된 일정을 한눈에 확인할 수 있습니다.*
+*마감일을 설정했다면 기존 todo list처럼 기간으로 표시되는것이 아닌 시작일과 마감일에만 이벤트 블럭이 존재합니다.*
+
 
 ---
 
